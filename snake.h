@@ -21,3 +21,4 @@ extern void printsnake(snake snake);
 
 
 extern void judge_if_end_and_score(int end_flag);
+extern void pass();//一个占位用的空函数
